@@ -1,0 +1,15 @@
+{
+  "exactitud": 1.0,
+  "matriz_confusion": [
+    [
+      60,
+      0
+    ],
+    [
+      0,
+      60
+    ]
+  ],
+  "epocas": 38,
+  "parametros": 193
+}

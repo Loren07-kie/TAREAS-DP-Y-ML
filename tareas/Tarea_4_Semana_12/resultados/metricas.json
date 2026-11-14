@@ -1,0 +1,49 @@
+{
+  "total": 4,
+  "conteos": {
+    "circulo": 2,
+    "cuadrado": 2
+  },
+  "detecciones": [
+    {
+      "id": 1,
+      "clase": "circulo",
+      "x": 23,
+      "y": 23,
+      "ancho": 45,
+      "alto": 45,
+      "area": 1517,
+      "ocupacion": 0.7491358024691358
+    },
+    {
+      "id": 2,
+      "clase": "cuadrado",
+      "x": 105,
+      "y": 25,
+      "ancho": 40,
+      "alto": 40,
+      "area": 1600,
+      "ocupacion": 1.0
+    },
+    {
+      "id": 3,
+      "clase": "circulo",
+      "x": 165,
+      "y": 90,
+      "ancho": 51,
+      "alto": 51,
+      "area": 1961,
+      "ocupacion": 0.7539407920030757
+    },
+    {
+      "id": 4,
+      "clase": "cuadrado",
+      "x": 30,
+      "y": 100,
+      "ancho": 40,
+      "alto": 40,
+      "area": 1600,
+      "ocupacion": 1.0
+    }
+  ]
+}
