@@ -1,15 +1,42 @@
 {
-  "exactitud": 1.0,
+  "exactitud": 0.9966666666666667,
   "matriz_confusion": [
     [
-      60,
+      300,
       0
     ],
     [
-      0,
-      60
+      2,
+      298
     ]
   ],
-  "epocas": 38,
-  "parametros": 193
+  "epocas": 49,
+  "parametros": 385,
+  "entrenamiento": 1800,
+  "validacion": 600,
+  "prueba": 600,
+  "capas": [
+    2,
+    24,
+    12,
+    1
+  ],
+  "comparacion": [
+    {
+      "capas": [
+        16,
+        8
+      ],
+      "perdida_validacion": 0.020609764382243156
+    },
+    {
+      "capas": [
+        24,
+        12
+      ],
+      "perdida_validacion": 0.020409511402249336
+    }
+  ],
+  "ruido": 0.12,
+  "semilla_datos": 2026
 }
